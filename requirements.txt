@@ -1,0 +1,4 @@
+discord==2.3.2
+discordbotdash==1.2.3
+python-dotenv==1.0.1
+flask==3.0.3
